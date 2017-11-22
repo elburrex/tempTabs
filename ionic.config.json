@@ -1,0 +1,8 @@
+{
+  "name": "carajosapp",
+  "app_id": "c2c9f2b9",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
